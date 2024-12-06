@@ -1,0 +1,84 @@
+.espacoTop80{
+    margin-top: 80px;
+}
+
+.corCinza{
+    color: #acacac;
+}
+
+.espacoTop20{
+    margin-top: 20px;
+}
+
+.corAzul{
+    color: #17A2B8;
+}
+
+.corPreto{
+    color: #343A40;
+}
+
+.espacoTop10{
+    margin-top: 10px;
+}
+
+.bordaRedonda20{
+    border-radius: 20px;
+}
+
+.bordaForm{
+    border-radius: 10px;
+    border-color: #17A2B8;
+}
+
+.theadAzul{
+    background-color: #17A2B8;
+}
+
+.corBranco{
+    color: #ffffff;
+}
+
+.fundoAzulzinho{
+    background-color: #d6f2f7;
+}
+
+.seuIMC{
+    background-color: #343A40;
+    color: #ffffff;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.fundoAzul{
+    background-color: #17A2B8;
+}
+
+.espacoTop30{
+    margin-top: 30px;
+}
+
+.corLink:link {
+    color: #ffffff;
+    text-decoration: none;
+}
+  
+.corLink:visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.corLink:hover {
+    color: #343A40;
+    text-decoration: none;
+}
+
+.corLink:active {
+    color: #343A40;
+    text-decoration: none;
+}
+
+.espacoBottom20{
+    padding-bottom: 20px;
+}
